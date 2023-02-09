@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    font-size: 30px;
+    font-weight: 300;
+}
+.nav_bar{
+    width: 100%;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 5px;
+    width:60px;
+}
+ul{
+    margin-top: 4px;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    font-size: 50%;
+}
+ul li {
+    list-style: none;
+    display:inline-block;
+    margin-left: 10px;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+div{
+    margin-left: 0 auto;
+}
+.hero_page{
+    margin-top: 30px;
+}
+h1{
+    font-size: 100%;
+}
+
+h1 ,h3{
+    
+    margin-top: 10px;
+    text-align: center;
+}
+.illustratio-1{
+    width: 500px;
+    float: right;
+
+}
+p{
+    font-size: 70%;
+    text-align: justify;
+    margin-top: 20px;
+    word-spacing: normal;
+}
+input{
+    display: inline-block;
+    width: 300px;
+    margin-left: 50px;
+    height: 30px;
+    margin-top: 10px;
+}
+.btn{
+    background-color:lightblue;
+    border: none;
+}
+.section2{
+    background-color: rgb(236, 236, 236);
+    -webkit-clip-path: circle(70.7% at 52% 72%);
+    clip-path: circle(70.7% at 52% 72%);
+    height: 1000px;
+
+}
+.illustration-2{
+    margin-top: 200px;
+    width: 300px;
+float: right;
+}
+h2{
+    margin-top: 20px;
+    font-size: 80%;
+    text-align: center;
+}
+.See_how_Fylo_works{
+    margin:90px;
+    color: rgb(116, 220, 255)
+}
+.icon-arrow{
+    width: 20px;
+    position: absolute;
+    left: 270px;
+    margin-top: 8px;
+}
+.See_how_Fylo_works:hover{
+    border-bottom: 1px solid rgb(116, 220, 255);
+    transition-delay: 0.5s;
+}
+.box{
+    height: 250px;
+    width: 300px;
+    background-color: #fff;
+    margin: 10px auto 10px;
+}
+.div{
+    text-align:left;
+    padding: 0 20px 20px;
+}
+span{
+    display: block;
+    font-size: 200%;
+}
+
+.section3{
+    background-color: rgb(160, 160, 233);
+    height: 350px;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+}
+.avater{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    display: inline-block;
+}
+h3{
+    display: inline-block;
+    font-size: 50%;
+text-align: center;
+position: absolute;
+left: 370px;
+}
+h4{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+.email{
+    margin: 0 auto;
+    
+}
+.button{
+    background-color: rgb(74, 74, 245);
+    color: #fff;
+    border: none;
+    text-align: center;
+}
+.section5{
+    height: 300px;
+    width: 100%;
+    background-color: navy;
+}
+.section5{
+    padding: 40px;
+    color: #fff;
+
+}
+.sectio5logo{
+    display: block;
+    margin-top: 10px ;
+}
+.logo5{
+    margin-bottom: 20px;
+}
+.phone{
+    font-size: 50%;
+}
+span{
+    font-size: 50%;
+}
