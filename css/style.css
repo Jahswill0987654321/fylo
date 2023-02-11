@@ -34,8 +34,10 @@ a{
 }
 div{
     margin-left: 0 auto;
+
 }
 .hero_page{
+    padding: 30px;
     margin-top: 30px;
 }
 h1{
@@ -50,6 +52,7 @@ h1 ,h3{
 .illustratio-1{
     width: 500px;
     float: right;
+    
 
 }
 p{
@@ -61,7 +64,7 @@ p{
 input{
     display: inline-block;
     width: 300px;
-    margin-left: 50px;
+    margin-left: 20px;
     height: 30px;
     margin-top: 10px;
 }
@@ -73,7 +76,8 @@ input{
     background-color: rgb(236, 236, 236);
     -webkit-clip-path: circle(70.7% at 52% 72%);
     clip-path: circle(70.7% at 52% 72%);
-    height: 1000px;
+    height: 1200px;
+    padding: 20px;
 
 }
 .illustration-2{
@@ -87,7 +91,7 @@ h2{
     text-align: center;
 }
 .See_how_Fylo_works{
-    margin:90px;
+    margin-left: 70px;
     color: rgb(116, 220, 255)
 }
 .icon-arrow{
