@@ -52,6 +52,7 @@ h1 ,h3{
 .illustratio-1{
     width: 500px;
     float: right;
+
     
 
 }
@@ -77,13 +78,13 @@ input{
     -webkit-clip-path: circle(70.7% at 52% 72%);
     clip-path: circle(70.7% at 52% 72%);
     height: 1200px;
-    padding: 20px;
+    padding: 30px;
 
 }
 .illustration-2{
     margin-top: 200px;
     width: 300px;
-float: right;
+    float: right;
 }
 h2{
     margin-top: 20px;
